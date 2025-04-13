@@ -26,8 +26,8 @@ Please raise issues or contact me if you have any requests or need help. Your fe
 
 When I started working on 3DExperience, I was shocked by the lack of open-source or community projects. I have worked on Aras and other projects and was inspired by the incredible work of:
 
-- Eric Domke on an Aras Administration tool open source: [InnovatorAdmin](https://github.com/erdomke/InnovatorAdmin/tree/mastern
-- Vincent Daburon on JMeter: [vdaburon]https://github.com/vdaburon
-- Olivier De Meringo on sustainable projects: [demeringo]https://github.com/demeringo
+- Eric Domke on an Aras Administration tool open source: [InnovatorAdmin](https://github.com/erdomke/InnovatorAdmin/tree/master)
+- Vincent Daburon on JMeter: [vdaburon]https://github.com/vdaburon)
+- Olivier De Meringo on sustainable projects: [demeringo]https://github.com/demeringo)
 
 Big applause to them and long live their projects.
