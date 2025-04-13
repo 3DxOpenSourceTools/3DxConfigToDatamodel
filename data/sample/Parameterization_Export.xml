@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TeamParameterization date="Tue Mar 04 08:00:00 CEST 2025" version="3DEXPERIENCE R2025x">
+<!--Exported parameters XML file should never be modified manually. Modifying such file and reimporting it can trigger major impacts on your environment !--><Parameter description="Parameter RawMaterialPrefixSuffix of domain ObjectIdentification" name="RawMaterialPrefixSuffix" id="Param_008db828-6d10-44f1-8e2a-xxxxxxxxxxxx" category="ObjectIdentification">RM|01</Parameter>
+<Parameter description="Promotion rule on type Document($Discipline) : -RejectOnStandardData- on transition FROZEN--RELEASED" name="LCTransitionCheck" id="Param_00b73243-55f1-4415-9067-xxxxxxxxxxxx category="LifecycleTopology">Document|FROZEN|RELEASED|RejectOnStandardData|NOINFO</Parameter>
+<Parameter description="Parameter OnlyOwnerCanSeePrivateStateContent of domain DataAccessRight" name="OnlyOwnerCanSeePrivateStateContent" id="Param_0293d51b-59ec-41a6-89c9-xxxxxxxxxxxx" category="DataAccessRight">Enabled</Parameter>
+<Parameter description="String attribute -legacyId- on VPMReference" name="AddAttribute" id="Param_0d4f6d17-cc59-4175-a88d-xxxxxxxxxxxx" category="AttributeDef">VPMReference|String|legacyId|legacyId|||FALSE|TRUE,FALSE,TRUE,TRUE,FALSE,FALSE|FALSE|TRUE|</Parameter>
+</TeamParameterization>
